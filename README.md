@@ -4,3 +4,7 @@ This ArmA 3 Mod creates a new type of 5.56x45mm ammo with increased armor pierci
 It is meant to be used in combination with ACE mod due to the changes it applies to the game balistics.
 
 It is calibrated to down a Russian RHS unit with ~2 bullets.
+
+## Future Additions/Changes
+- Adding multiple magazine types (EMAG, PMAG, Puller)
+- Further balancing when needed
